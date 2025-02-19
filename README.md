@@ -1,4 +1,4 @@
-# Olá, eu sou o Rodrigo 👋
+# Olá, me chamo Rodrigo 👋
 Sou Enfermeiro, apaixonado por programação, que atualmente é meu principal foco de estudos.
 
 ## 🚀 Tecnologias
